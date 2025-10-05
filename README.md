@@ -146,5 +146,5 @@ MIT License © 2025 Gaurav Negi
 
 **Gaurav Negi**
 
-* [LinkedIn](https://www.linkedin.com/in/gaurav-negi)
+* [LinkedIn](https://www.linkedin.com/in/gaurav-negi-02a198108/)
 * [GitHub](https://github.com/gau4avn3gi)
