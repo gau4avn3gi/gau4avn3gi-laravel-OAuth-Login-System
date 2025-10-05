@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# laravel-OAuth-Login-System
+Laravel OAuth Dashboard with Socialite is a modern Laravel app with social login via Google, Facebook, and more, featuring a responsive dashboard showing user profile, login provider, and activity, built with Laravel Breeze &amp; TailwindCSS.
+>>>>>>> c82ad63654cd93b3740d815f1adf2ebecd59c311
