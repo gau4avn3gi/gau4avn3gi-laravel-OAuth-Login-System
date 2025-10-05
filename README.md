@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-* **Framework:** Laravel 11
+* **Framework:** Laravel 12
 * **Authentication:** Laravel Breeze + Socialite
 * **Frontend:** TailwindCSS
 * **Database:** MySQL (or your preferred DB)
